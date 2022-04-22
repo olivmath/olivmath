@@ -28,7 +28,7 @@ De forma ativa fiz vários meetups sobre tecnologia.
 ```
 ## 🚀 Estou estudando
 ```
-Rust
+Rust - WebAssembly
 Blockchain
 Modelo de Atores
 ```
