@@ -11,7 +11,7 @@ Hoje pesquiso Blockchain no iCoLab. (2022)
 ```
 ## 🏗 Intraempreendedorismo
 ```
-Criei cursos de algoritmos e programação usando o livro “Pense em Python” Allen B. Downey.
+Dei aula de algoritmos e programação para crianças usando o livro “Pense em Python” Allen B. Downey.
 
 Fiz um sistema de gamificação para pontuar bons alunos que usava Machine Learning
 para criação de métricas de acompanhamento.
