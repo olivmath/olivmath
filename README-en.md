@@ -1,6 +1,7 @@
 # 🌎 Hello World !
 
-[🇧🇷 PT](README.md)
+[🇧🇷 PT](README.md)<br>
+[My Curriculum](cv-en.md)
 
 ## 🏁 My Achievements
 
