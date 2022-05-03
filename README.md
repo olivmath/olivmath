@@ -1,7 +1,7 @@
 # 🌎 Olá Mundo !
 
 [🇺🇸 EN](README-en.md)<br>
-[Meu Curriculo](cv.md)
+[📃 Meu Curriculo](cv.md)
 
 ## 🏁 Minhas Conquistas
 
