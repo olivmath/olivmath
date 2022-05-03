@@ -1,43 +1,52 @@
-# 🌎 Olá Mundo !
+# 🌎 Hello World !
 
-[Donwload meu Curriculo]()
+[🇧🇷 PT](README.md) |
 
-## 🏁 Minhas Conquistas
-```
-Sai da Bahia (2017-2021) pra São Paulo apenas com a cara e com a coragem.
-Aprendi muito, fiz ótimas amizades e trabalhei pra caramba.
+## 🏁 My Achievements
 
-Me formei em Matemática (2021), participei de eventos no maior instituto de matemática do mundo (IMPA),
-estudei Blockchain na Berkeley.
-Hoje pesquiso Blockchain no iCoLab. (2022)
 ```
-## 🏗 Intraempreendedorismo
-```
-Dei aula de algoritmos e programação para crianças usando o livro “Pense em Python” Allen B. Downey.
+I left Bahia (2017-2021) and went to São Paulo with nothing but courage.
+I learned a lot, made great friends and worked hard.
 
-Fiz um sistema de gamificação para pontuar bons alunos que usava Machine Learning
-para criação de métricas de acompanhamento.
+I graduated in Mathematics (2021), participated in events at the largest mathematics institute in the world (IMPA),
+I studied Blockchain at Berkeley.
+Today I research Blockchain on iCoLab. (2022)
 ```
-## ✅ Minhas Experiencias
-```
-Dei aulas de Matemática/Física pra todas as idades desde infantil até o médio.
-Também dei aulas de Robótica usando Arduino e C++ para crianças.
 
-Como programador fiz um SDK para facilitar a integração com a Lunes Blockchain.
-Desenvolvi pipelines de CI/CD tanto no Gitlab quanto no Github.
-Padronizei ambientes com Docker/Compose e Remote Container.
-De forma ativa fiz vários meetups sobre tecnologia.
+## 🏗 Intrapreneurship
+
 ```
-## 🚀 Estou estudando
+I taught children algorithms and programming using the book “Think Python” by Allen B. Downey.
+
+I made a gamification system to score good students that used Machine Learning
+for creating tracking metrics.
+```
+
+## ✅ My Experiences
+
+```
+I have taught Maths/Physics to all ages from kindergarten through high school.
+I also taught Robotics classes using Arduino and C++ for children.
+
+As a programmer I made an SDK to facilitate integration with Lunes Blockchain.
+I developed CI/CD pipelines in both Gitlab and Github.
+Standardized environments with Docker/Compose and Remote Container.
+I actively taught in meetups about technology.
+```
+
+## 🚀 I'm studying
+
 ```
 Rust
 Blockchain
 WebAssembly
-Modelo de Atores
+Actors Models
 ```
-## 🪴 Estilo de vida
+
+## 🪴 Lifestyle
+
 ```
-👨‍👩‍👧 Casado, tenho uma filha.
-📚 Estou montando minha biblioteca.
-🎸 Amo tocar Guitarra e blues (sim com gaita).
+👨‍👩‍👧 Married, I have a daughter.
+📚 I'm building my own library.
+🎸 I love playing guitar and blues (yes with harmonica).
 ```
