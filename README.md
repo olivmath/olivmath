@@ -1,7 +1,7 @@
 # 🌎 Olá Mundo !
 
 [🇺🇸 EN](README-en.md)<br>
-[📃 Meu Curriculo](cv/cv.pdf)
+[📃 Meu Curriculo](https://github.com/olivmath/olivmath/raw/main/cv/cv.pdf)
 
 ## 🏁 Minhas Conquistas
 
