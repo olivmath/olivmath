@@ -1,6 +1,6 @@
 # 🌎 Hello World !
 
-[🇧🇷 PT](README.md) |
+[🇧🇷 PT](README.md)
 
 ## 🏁 My Achievements
 

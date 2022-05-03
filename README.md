@@ -1,6 +1,6 @@
 # 🌎 Olá Mundo !
 
-[🇺🇸 EN](README-en.md) |
+[🇺🇸 EN](README-en.md)
 
 ## 🏁 Minhas Conquistas
 
