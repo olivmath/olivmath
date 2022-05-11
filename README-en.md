@@ -9,8 +9,8 @@
 I left Bahia (2017-2021) and went to São Paulo with nothing but courage.
 I learned a lot, made great friends and worked hard.
 
-I graduated in Mathematics (2021), participated in events at the largest mathematics institute in the world (IMPA),
-I studied Blockchain at Berkeley.
+I graduated in Mathematics (2021), participated in events at the largest mathematics institute in the world (IMPA).
+I got Blockchain Professional Certification from the University of California (Berkeley)
 Today I research Blockchain on iCoLab. (2022)
 ```
 
