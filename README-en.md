@@ -10,8 +10,8 @@ I left Bahia (2017-2021) and went to São Paulo with nothing but courage.
 I learned a lot, made great friends and worked hard.
 
 I graduated in Mathematics (2021), participated in events at the largest mathematics institute in the world (IMPA).
-I got Blockchain Professional Certification from the University of California (Berkeley)
-Today I research Blockchain on iCoLab. (2022)
+I got Blockchain Professional Certification from the University of California (Berkeley).
+Today I research Blockchain on iCoLab (2022).
 ```
 
 ## 🏗 Intrapreneurship
@@ -30,8 +30,8 @@ I have taught Maths/Physics to all ages from kindergarten through high school.
 I also taught Robotics classes using Arduino and C++ for children.
 
 As a programmer I made an SDK to facilitate integration with Lunes Blockchain.
-I developed CI/CD pipelines in both Gitlab and Github.
 Standardized environments with Docker/Compose and Remote Container.
+I developed CI/CD pipelines in both Gitlab and Github.
 I actively taught in meetups about technology.
 ```
 
