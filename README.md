@@ -9,8 +9,8 @@
 Sai da Bahia (2017-2021) e fui para São Paulo apenas com a cara e a coragem.
 Aprendi muito, fiz ótimas amizades e trabalhei duro.
 
-Me formei em Matemática (2021), participei de eventos no maior instituto de matemática do mundo (IMPA),
-Estudei Blockchain em Berkeley.
+Me formei em Matemática (2021), participei de eventos no maior instituto de matemática do mundo (IMPA).
+Consegui a Certificação em Blockchain da Berkeley.
 Hoje eu pesquiso Blockchain no iCoLab. (2022)
 ```
 
