@@ -1,53 +1,53 @@
-# 🌎 Olá Mundo !
+# 🌎 Hello World !
 
-[🇺🇸 EN](README-en.md)<br>
-[📃 Meu Curriculo](https://github.com/olivmath/olivmath/raw/main/cv/cv.pdf)
+[🇧🇷 PT](README-pt.md)<br>
+[📃 My Curriculum](https://github.com/olivmath/olivmath/raw/main/cv/cv-en.pdf)
 
-## 🏁 Minhas Conquistas
-
-```
-Sai da Bahia (2017-2021) e fui para São Paulo apenas com a cara e a coragem.
-Aprendi muito, fiz ótimas amizades e trabalhei duro.
-
-Me formei em Matemática (2021), participei de eventos no maior instituto de matemática do mundo (IMPA).
-Eu consegui a Certificação Profissional em Blockchain da Universidade da Califórnia (Berkeley).
-Hoje eu pesquiso Blockchain no iCoLab (2022).
-```
-
-## 🏗 Intraempreendedorismo
+## 🏁 My Achievements
 
 ```
-Eu ensinei algoritmos e loógica de programação para crianças usando o livro “Pense em Python” Allen B. Downey.
+I left Bahia (2017-2021) and went to São Paulo with nothing but courage.
+I learned a lot, made great friends and worked hard.
 
-Fiz um sistema de gamificação para pontuar bons alunos que usava Machine Learning
-para criação de métricas de acompanhamento.
+I graduated in Mathematics (2021), participated in events at the largest mathematics institute in the world (IMPA).
+I got Blockchain Professional Certification from the University of California (Berkeley).
+Today I research Blockchain on iCoLab (2022).
 ```
 
-## ✅ Minhas Experiencias
+## 🏗 Intrapreneurship
 
 ```
-Ensinei Matemática/Física pra todas as idades desde infantil até o médio.
-Também dei aulas de Robótica usando Arduino e C++ para crianças.
+I taught children algorithms and programming using the book “Think Python” by Allen B. Downey.
 
-Como programador fiz um SDK para facilitar a integração com a Lunes Blockchain.
-Desenvolvi pipelines de CI/CD tanto no Gitlab quanto no Github.
-Padronizei ambientes com Docker/Compose e Remote Container.
-De forma ativa fiz vários meetups sobre tecnologia.
+I made a gamification system to score good students that used Machine Learning
+for creating tracking metrics.
 ```
 
-## 🚀 Estou estudando
+## ✅ My Experiences
+
+```
+I have taught Maths/Physics to all ages from kindergarten through high school.
+I also taught Robotics classes using Arduino and C++ for children.
+
+As a programmer I made an SDK to facilitate integration with Lunes Blockchain.
+Standardized environments with Docker/Compose and Remote Container.
+I developed CI/CD pipelines in both Gitlab and Github.
+I actively taught in meetups about technology.
+```
+
+## 🚀 I'm studying
 
 ```
 Rust
 Blockchain
 WebAssembly
-Modelo de Atores
+Actors Models
 ```
 
-## 🪴 Estilo de vida
+## 🪴 Lifestyle
 
 ```
-👨‍👩‍👧 Casado, tenho uma filha.
-📚 Estou montando minha própria biblioteca.
-🎸 Amo tocar guitarra e blues (sim com gaita).
+👨‍👩‍👧 Married, I have a daughter.
+📚 I'm building my own library.
+🎸 I love playing guitar and blues (yes with harmonica).
 ```
