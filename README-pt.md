@@ -11,16 +11,7 @@ Aprendi muito, fiz ótimas amizades e trabalhei duro.
 
 Me formei em Matemática (2021), participei de eventos no maior instituto de matemática do mundo (IMPA).
 Eu consegui a Certificação Profissional em Blockchain da Universidade da Califórnia (Berkeley).
-Hoje eu pesquiso Blockchain no iCoLab (2022).
-```
-
-## 🏗 Intraempreendedorismo
-
-```
-Eu ensinei algoritmos e loógica de programação para crianças usando o livro “Pense em Python” Allen B. Downey.
-
-Fiz um sistema de gamificação para pontuar bons alunos que usava Machine Learning
-para criação de métricas de acompanhamento.
+Hoje eu estou como Líder de Blockchain na Lunes e estou estudando DeFi pela Universidade de Nicósia.
 ```
 
 ## ✅ Minhas Experiencias
