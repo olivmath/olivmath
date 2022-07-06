@@ -23,7 +23,7 @@ Ajudei na automação de processo diminuindo o tempo de entrega de software e au
 Participei da Arquitetura, desenvolvimento e implantação de algumas REST API HTTP para serviços internos.
 Trouxe a cultura de **Code Review**, **TDD**, **DevOps** e **Continuous Delivery**.
 Melhoramos a gestão de atividades usando issues, code review, auto-MR e Milestone através Gitlab.
-Liderei a implantação de pipelines de CI/CD também no Gitlab
+Liderei a implantação de pipelines de CI/CD também no Gitlab.
 
 Além disso:
 Participei ativamente no processo de seleção e _On-Board_.

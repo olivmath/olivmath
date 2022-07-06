@@ -22,8 +22,8 @@ _Lunes is a Token-Drive blockchain protocol_.
 I helped in process automation decreasing software delivery time and increasing final quality.
 I participated in the Architecture, development and deployment of some HTTP REST API for internal services.
 Brought the culture of **Code Review**, **TDD**, **DevOps** and **Continuous Delivery**.
-Improved activity management using issues, code review, auto-MR and Milestone through Gitlab
-I led the deployment of CI/CD pipelines also in Gitlab
+Improved activity management using issues, code review, auto-MR and Milestone through Gitlab.
+I led the deployment of CI/CD pipelines also in Gitlab.
 
 In addition:
 I actively participated in the selection process and _On-Board_.
