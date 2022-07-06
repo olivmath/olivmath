@@ -35,7 +35,7 @@ In addition:
 ## 🪴 Lifestyle
 
 ```
-🎸 I love playing guitar, blues and country rock like a Bob Dylan (yes with harmonica).
+🎸 I love playing guitar, blues and country-rock like a Bob Dylan (yes with harmonica).
 👨‍👩‍👧 Married, I have a beautiful daughter.
 📚 I'm building my own library.
 ```
