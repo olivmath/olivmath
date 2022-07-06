@@ -8,7 +8,7 @@ tel.: (18) 9 8144-4497
 ## Perfil Profissional
 
 Trabalho com desenvolvimento de software desde 2020.
-Meu foco é Blockchain principalmente em Criptografia, construção de SDK e Protocolos de consenso.
+Meu foco é Blockchain principalmente em Criptografia, Integrações por meio de SDK e Protocolos de consenso.
 
 ## Experiência
 
@@ -20,9 +20,13 @@ Meu foco é Blockchain principalmente em Criptografia, construção de SDK e Pro
 _Lunes é um protocolo de blockchain orientado a Tokens_
 
 Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final.
+
 Participei da Arquitetura, desenvolvimento e implantação de algumas REST API HTTP para serviços internos.
+
 Trouxe a cultura de **Code Review**, **TDD**, **DevOps** e **Continuous Delivery**.
-Melhoramos a gestão de atividades usando issues, code review, auto-MR e Milestone através Gitlab
+
+Melhoramos a gestão de atividades usando issues, code review, auto-MR e Milestone através Gitlab.
+
 Liderei a implantação de pipelines de CI/CD também no Gitlab
 
 Além disso:

@@ -7,7 +7,8 @@ tel.: (18) 9 8144-4497
 
 ## Professional Profile
 
-I work with software development since 2020. Always focused on intrapreneurship and innovation.
+I have been working with software development since 2020.
+My focus is Blockchain mainly on Cryptography, Integrations via SDK and Consensus protocols.
 
 ## Experience
 
@@ -16,11 +17,29 @@ I work with software development since 2020. Always focused on intrapreneurship 
 **Tech Lead Blockchain**<br>
 **2020.fev - `Current`**
 
-Helped in process automation reducing software delivery time and increasing final quality, implementing the **TDD** and **DevOps** culture/tools with: development environment standardization using Docker/Compose, activities management using Issue, auto-MR and Milestone in Gitlab, CI/CD Pipeline also in Gitlab and automated tests with Jest and Typescript.
+_Lunes is a Token-Drive blockchain protocol_.
 
-I also produced the **SDK** to facilitate integration with _Lunes Blockchain_ using Typescript/JavaScript, Rust/WebAssembly, Docusaurus and Python.
+I helped in process automation decreasing software delivery time and increasing final quality.
+I participated in the Architecture, development and deployment of some HTTP REST API for internal services.
+Brought the culture of **Code Review**, **TDD**, **DevOps** and **Continuous Delivery**.
+Improved activity management using issues, code review, auto-MR and Milestone through Gitlab
+I led the deployment of CI/CD pipelines also in Gitlab
 
-In addition, I actively participated in the selection process and _On-Board_ of new members organizing _Meetups_ to level knowledge between the teams.
+In addition:
+I actively participated in the selection process and _On-Board_.
+I organized _Meetups_ to share knowledge between teams.
+
+Technologies I used:
+
+- Scala: ScalaTest, Akka, Actor Models and LevelDB
+- Python: Pytest, Pydantic, FastAPI, Peewee and SQLite3
+- Rust: WebAssembly, Wasm-Pack, Clap and Tokio
+- Typescript: Jest, axios and WebAssembly
+- GitLab: Pipeline, CI/CD, Issues and Milestone
+- GitHub: Actions, Issues and Projects
+- Docker: Dockefile and Compose
+- Kubernetes: Deployments and Secretes
+- Figma: Jam
 
 ### My Robot School
 
