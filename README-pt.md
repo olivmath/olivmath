@@ -2,6 +2,8 @@
 
 [🇺🇸 EN](README.md)<br>
 [📃 Meu Curriculo](https://github.com/olivmath/olivmath/raw/main/cv/cv.pdf)
+[📚 Veja o que estou estudando](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845) 
+
 
 ## 🏁 Minhas Conquistas
 
@@ -30,8 +32,6 @@ Além disso:
 - Participei ativamente no processo de seleção e On-Board
 - Organizei Meetups para compartilhar conhecimento entres os equipes.
 ```
-
-## 🚀 [O que estou estudando](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
 
 ## 🪴 Estilo de vida
 
