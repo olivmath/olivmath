@@ -17,6 +17,8 @@ Meu foco é Blockchain principalmente em Criptografia, construção de SDK e Pro
 **Tech Lead Blockchain**<br>
 **2020.fev - `Atual`**
 
+_Lunes é um protocolo de blockchain orientado a Tokens_
+
 Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final.
 Participei da Arquitetura, desenvolvimento e implantação de algumas REST API HTTP para serviços internos.
 Trouxe a cultura de **Code Review**, **TDD**, **DevOps** e **Continuous Delivery**.
@@ -29,14 +31,14 @@ Organizei _Meetups_ para compartilhar conhecimento entre as equipes.
 
 Técnologias que usei:
 
-- Scala: ScalaTest, Akka, LevelDB, Actor Models
-- Python: Pytest, Pydantic, FastAPI, Peewee, SQLite3
-- Rust: WebAssembly, Wasm-Pack, Clap, Tokio
-- Typescript: Jest, axios, WebAssembly
-- GitLab: Pipeline, CI/CD, Issues, Milestone,
-- GitHub: Actions, Issues, Projects
-- Docker: Dockefile, Compose
-- Kubernetes: Deployments, Secretes
+- Scala: ScalaTest, Akka, Actor Models e LevelDB
+- Python: Pytest, Pydantic, FastAPI, Peewee e SQLite3
+- Rust: WebAssembly, Wasm-Pack, Clap e Tokio
+- Typescript: Jest, axios e WebAssembly
+- GitLab: Pipeline, CI/CD, Issues e Milestone,
+- GitHub: Actions, Issues e Projects
+- Docker: Dockefile e Compose
+- Kubernetes: Deployments e Secretes
 - Figma: Jam
 
 ### Ghost Finance
@@ -44,7 +46,15 @@ Técnologias que usei:
 **Software Engineer**<br>
 **2022.abril - `Atual`**
 
----
+_Ghost Finance é um projeto de DeFi e NFT baseado em Ethereum_
+
+Ajudei a escrever **Documentação**, **Testes Unitários**, **Imagens Docker**.
+Contribui com boas práticas como **Clean Code**.
+
+Técnologias que usei:
+
+- Web3: Solidity, HardHat e Jest
+- Docker: Dockefile
 
 ### My Robot School
 
