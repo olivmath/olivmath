@@ -31,9 +31,7 @@ Além disso:
 - Organizei Meetups para compartilhar conhecimento entres os equipes.
 ```
 
-## 🚀 Estou estudando
-
-[Road Map](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
+## 🚀 [O que estou estudando](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
 
 ## 🪴 Estilo de vida
 
