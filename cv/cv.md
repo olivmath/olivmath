@@ -2,12 +2,13 @@
 
 linkedin: https://linkedin.com/in/olivmath<br>
 github: https://github.com/olivmath<br>
-email: olivmath@pm.me<br>
+email: olivmath@protonmail.com<br>
 tel.: (18) 9 8144-4497
 
 ## Perfil Profissional
 
-Trabalho com desenvolvimento de software desde 2020. Sempre focado em intraempreendedorismo e inovação.
+Trabalho com desenvolvimento de software desde 2020.
+Meu foco é Blockchain principalmente em Criptografia, construção de SDK e Protocolos de consenso.
 
 ## Experiência
 
@@ -16,11 +17,34 @@ Trabalho com desenvolvimento de software desde 2020. Sempre focado em intraempre
 **Tech Lead Blockchain**<br>
 **2020.fev - `Atual`**
 
-Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final, implantando a cultura/ferramentas de **TDD** e **DevOps** com: padronização de ambiente de desenvolvimento utilizando Docker/Compose, gestão de atividades usando Issue, auto-MR e Milestone no Gitlab, Pipeline de CI/CD também no Gitlab e testes automatizados com Jest e Typescript.
+Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final.
+Participei da Arquitetura, desenvolvimento e implantação de algumas REST API HTTP para serviços internos.
+Trouxe a cultura de **Code Review**, **TDD**, **DevOps** e **Continuous Delivery**.
+Melhoramos a gestão de atividades usando issues, code review, auto-MR e Milestone através Gitlab
+Liderei a implantação de pipelines de CI/CD também no Gitlab
 
-Também produzi o **SDK** para facilitar a integração com a _Lunes Blockchain_ usando Typescript/JavaScript, Rust/WebAssembly, Docusaurus e Python.
+Além disso:
+Participei ativamente no processo de seleção e _On-Board_.
+Organizei _Meetups_ para compartilhar conhecimento entre as equipes.
 
-Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entre as equipes.
+Técnologias que usei:
+
+- Scala: ScalaTest, Akka, LevelDB, Actor Models
+- Python: Pytest, Pydantic, FastAPI, Peewee, SQLite3
+- Rust: WebAssembly, Wasm-Pack, Clap, Tokio
+- Typescript: Jest, axios, WebAssembly
+- GitLab: Pipeline, CI/CD, Issues, Milestone,
+- GitHub: Actions, Issues, Projects
+- Docker: Dockefile, Compose
+- Kubernetes: Deployments, Secretes
+- Figma: Jam
+
+### Ghost Finance
+
+**Software Engineer**<br>
+**2022.abril - `Atual`**
+
+---
 
 ### My Robot School
 
@@ -48,13 +72,6 @@ Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
 ## Acadêmico
 
-### Instituto Colaborativo de Blockchain - iCoLab
-
-**Pesquisador Associado**<br>
-**2021 - `Atual`**<br>
-
-Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está voltada para NFT e Tokenização.
-
 ### Universidade da California - Berkeley
 
 **Profissional Certificate Program in Blockchain**<br>
@@ -62,7 +79,6 @@ Faço parte do projeto de produção e curadoria de artigos científios sobre bl
 **Nota:** 10.0
 
 Nesse programa de especialização aprendi sobre as mecânicas, vulnerabilidades e diferenças entre protocolos de **Blockchain**. Na última parte do programa me aprofundei nos mecânismos de consenso fundamentais e alternativos e as barreiras de escalabilidade e regulamentação da tecnologia blockchain.
-
 
 ### Instituto de Matemática Pura e Aplicada - IMPA
 
