@@ -17,23 +17,23 @@ Hoje eu estou como Líder de Blockchain na Lunes e estou estudando DeFi pela Uni
 ## ✅ Minhas Experiencias
 
 ```
-Ensinei Matemática/Física pra todas as idades desde infantil até o médio.
-Também dei aulas de Robótica usando Arduino e C++ para crianças.
+- Gestão de atividades pelo GitLab usando Issue, auto-MR, Code Review e Milestones.
+- Padronização de ambiente de desenvolvimento com Docker/Compose.
+- Versionamento de código usando Trunk Based Development.
+- Documentação de código aberto com Docusaurus.
+- Automação usando CI/CD também no Gitlab.
+- Teste usando TDD com Jest/Typescript e Pytest/Python.
+- Deploy de Bibliotecas para PyPi/Python, NPM/JavaScript e Crates/Rust/Assembly.
+- Deploy de aplicação usando Docker-Compose/Swarm e Kubernetes.
 
-Como programador fiz um SDK para facilitar a integração com a Lunes Blockchain.
-Desenvolvi pipelines de CI/CD tanto no Gitlab quanto no Github.
-Padronizei ambientes com Docker/Compose e Remote Container.
-De forma ativa fiz vários meetups sobre tecnologia.
+Além disso:
+- Participei ativamente no processo de seleção e On-Board
+- Organizei Meetups para compartilhar conhecimento entres os equipes.
 ```
 
 ## 🚀 Estou estudando
 
-```
-Rust
-Blockchain
-WebAssembly
-Modelo de Atores
-```
+[Road Map](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
 
 ## 🪴 Estilo de vida
 
