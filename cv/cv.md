@@ -54,7 +54,6 @@ Contribui com boas práticas como **Clean Code**.
 Técnologias que usei:
 
 - Web3: Solidity, HardHat e Jest
-- Docker: Dockefile
 
 ### My Robot School
 
