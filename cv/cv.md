@@ -44,7 +44,7 @@ Técnologias que usei:
 ### Ghost Finance
 
 **Software Engineer**<br>
-**2022.abril - `Atual`**
+**2022.abr - `Atual`**
 
 _Ghost Finance é um projeto de DeFi e NFT baseado em Ethereum_.
 
