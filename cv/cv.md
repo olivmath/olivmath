@@ -17,7 +17,7 @@ Meu foco é Blockchain principalmente em Criptografia, Integrações por meio de
 **Tech Lead Blockchain**<br>
 **2020.fev - `Atual`**
 
-_Lunes é um protocolo de blockchain orientado a Tokens_
+_Lunes é um protocolo de blockchain orientado a Tokens_.
 
 Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final.
 Participei da Arquitetura, desenvolvimento e implantação de algumas REST API HTTP para serviços internos.
@@ -46,7 +46,7 @@ Técnologias que usei:
 **Software Engineer**<br>
 **2022.abril - `Atual`**
 
-_Ghost Finance é um projeto de DeFi e NFT baseado em Ethereum_
+_Ghost Finance é um projeto de DeFi e NFT baseado em Ethereum_.
 
 Ajudei a escrever **Documentação**, **Testes Unitários**, **Imagens Docker**.
 Contribui com boas práticas como **Clean Code**.
