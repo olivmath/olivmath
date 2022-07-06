@@ -41,6 +41,20 @@ Technologies I used:
 - Kubernetes: Deployments and Secretes
 - Figma: Jam
 
+### Ghost Finance
+
+**Software Engineer**<br>
+**2022.abril - `Atual`**
+_Ghost Finance is an Ethereum-based DeFi and NFT project_
+
+I helped write **Documentation**, **Unit Tests**, **Docker Images**.
+I contribute to best practices like **Clean Code**.
+
+Technologies I used:
+
+- Web3: Solidity, HardHat and Jest
+- Docker: Dockefile
+
 ### My Robot School
 
 **Robotics Teacher**<br>
@@ -66,13 +80,6 @@ In addition, I taught Mathematics and Physics classes to elementary and high sch
 Taught Mathematics to 3rd and 4th grade students.
 
 ## Academic
-
-### Blockchain Collaborative Institute - iCoLab
-
-**Associate Researcher**<br>
-**2021 - `Current`**<br>
-
-I am part of the project to produce and curate scientific articles on blockchain. My research is focused on NFT and Tokenization.
 
 ### Universidade da California - Berkeley
 
