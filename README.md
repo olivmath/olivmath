@@ -2,6 +2,7 @@
 
 [🇧🇷 PT](README-pt.md)<br>
 [📃 My Curriculum](https://github.com/olivmath/olivmath/raw/main/cv/cv-en.pdf)
+[📚 See what I'm studying](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
 
 ## 🏁 My Achievements
 
@@ -11,43 +12,30 @@ I learned a lot, made great friends and worked hard.
 
 I graduated in Mathematics (2021), participated in events at the largest mathematics institute in the world (IMPA).
 I got Blockchain Professional Certification from the University of California (Berkeley).
-Today I research Blockchain on iCoLab (2022).
-```
-
-## 🏗 Intrapreneurship
-
-```
-I taught children algorithms and programming using the book “Think Python” by Allen B. Downey.
-
-I made a gamification system to score good students that used Machine Learning
-for creating tracking metrics.
+Today I am as a Blockchain Leader at Lunes and I am studying DeFi at the University of Nicosia.
 ```
 
 ## ✅ My Experiences
 
 ```
-I have taught Maths/Physics to all ages from kindergarten through high school.
-I also taught Robotics classes using Arduino and C++ for children.
+- GitLab activity management using Issue, auto-MR, Code Review and Milestones.
+- Development environment standardization with Docker/Compose.
+- Code versioning using Trunk Based Development.
+- Open source documentation with Docusaurus.
+- Automation using CI/CD also in Gitlab.
+- Testing using TDD with Jest/Typescript and Pytest/Python.
+- Library Deployment for PyPi/Python, NPM/JavaScript and Crates/Rust/Assembly.
+- Application Deployment using Docker-Compose/Swarm and Kubernetes.
 
-As a programmer I made an SDK to facilitate integration with Lunes Blockchain.
-Standardized environments with Docker/Compose and Remote Container.
-I developed CI/CD pipelines in both Gitlab and Github.
-I actively taught in meetups about technology.
-```
-
-## 🚀 I'm studying
-
-```
-Rust
-Blockchain
-WebAssembly
-Actors Models
+In addition:
+- I actively participated in the selection process and On-Board
+- Organized Meetups to share knowledge among the teams.
 ```
 
 ## 🪴 Lifestyle
 
 ```
-👨‍👩‍👧 Married, I have a daughter.
+👨‍👩‍👧 Married, I have a beautiful daughter.
 📚 I'm building my own library.
-🎸 I love playing guitar and blues (yes with harmonica).
+🎸 I love playing guitar, blues and country rockm like a Bob Dylan (yes with harmonica).
 ```

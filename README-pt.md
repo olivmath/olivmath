@@ -3,7 +3,7 @@
 [🇺🇸 EN](README.md)<br>
 [📃 Meu Curriculo](https://github.com/olivmath/olivmath/raw/main/cv/cv.pdf)<br>
 [📚 Veja o que estou estudando](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
-
+See what I'm studying
 ## 🏁 Minhas Conquistas
 
 ```
@@ -35,7 +35,7 @@ Além disso:
 ## 🪴 Estilo de vida
 
 ```
-👨‍👩‍👧 Casado, tenho uma filha.
+👨‍👩‍👧 Casado, tenho uma filha linda.
 📚 Estou montando minha própria biblioteca.
-🎸 Amo tocar guitarra e blues (sim com gaita).
+🎸 Amo tocar guitarra, blues e country-rock (sim com gaita).
 ```
