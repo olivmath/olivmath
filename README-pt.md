@@ -7,12 +7,13 @@ See what I'm studying
 ## 🏁 Minhas Conquistas
 
 ```
-Sai da Bahia (2017-2021) e fui para São Paulo apenas com a cara e a coragem.
-Aprendi muito, fiz ótimas amizades e trabalhei duro.
-
-Me formei em Matemática (2021), participei de eventos no maior instituto de matemática do mundo (IMPA).
-Eu consegui a Certificação Profissional em Blockchain da Universidade da Califórnia (Berkeley).
-Hoje eu estou como Líder de Blockchain na Lunes e estou estudando DeFi pela Universidade de Nicósia.
+Em 2017 deixei a Bahia e fui para São Paulo com a cara e a coragem.
+Aprendi muito, fiz grandes amigos e trabalhei muito.
+Formei-me em Matemática (2021) e participei de eventos no maior instituto de matemática do mundo (IMPA).
+Recebi a Certificação Profissional em Blockchain da Universidade da Califórnia - Berkeley (2021).
+Trabalhei como Desenvolvedor de Blockchain na Lunes Platform por 2,5 anos alcançando a posição de Líder de Blockchain. 
+Em 2022 me dediquei para completar a Introdução à DeFi na Universidade de Nicósia.
+Hoje eu sou o Gerente de Engenharia de Blockchain e recrutei uma equipe multidisciplinar de 4 pessoas para criar uma nova blockchain permissionada para um país da América Central.
 ```
 
 ## ✅ Minhas Experiencias
