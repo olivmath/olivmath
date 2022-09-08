@@ -12,7 +12,6 @@ Formei-me em Matemática (2021) e participei de eventos no maior instituto de ma
 Recebi a Certificação Profissional em Blockchain da Universidade da Califórnia - Berkeley (2021).
 Trabalhei como Desenvolvedor de Blockchain na Lunes Platform por 2,5 anos alcançando a posição de Líder de Blockchain. 
 Em 2022 me dediquei para completar a Introdução à DeFi na Universidade de Nicósia.
-Hoje eu sou o Gerente de Engenharia de Blockchain e recrutei uma equipe multidisciplinar de 4 pessoas para criar uma nova blockchain permissionada para um país da América Central.
 ```
 
 ## ✅ Minhas Experiencias
