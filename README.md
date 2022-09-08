@@ -12,7 +12,6 @@ I graduated in Mathematics (2021), and attended events at the largest mathematic
 I received the Blockchain Professional Certification from the University of California - Berkeley (2021).
 I worked as a Blockchain Developer at Lunes Platform for 2.5 years reaching the position of Blockchain Leader. 
 In 2022 I dedicated myself to complete the introduction to DeFi at the University of Nicosia.
-Today I am the Blockchain Engineering Manager and recruited a fullstack team of 4 people to create a new permissioned blockchain for a country in Central America.
 ```
 
 ## ✅ My Experiences
