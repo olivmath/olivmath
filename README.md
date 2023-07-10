@@ -1,6 +1,5 @@
 # 🌎 Hello World !
 
-🚀 I use blockchain technology to help companies revolutionize the way they work and create value.
 
 Blockchain Engineer with 3+ years of experience in the entire Blockchain project development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 6 people and led teams of up to 3 people.
 
