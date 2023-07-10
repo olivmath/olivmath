@@ -1,40 +1,35 @@
 # 🌎 Hello World !
 
-[🇧🇷 PT](README-pt.md)<br>
-[📚 See what I'm studying](https://olivmath.notion.site/Academy-7f504a2c21c647309b70f3a8b96b9845)
+🚀 I use blockchain technology to help companies revolutionize the way they work and create value.
 
-## 🏁 My Achievements
+Blockchain Engineer with 3+ years of experience in the entire Blockchain project development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 6 people and led teams of up to 3 people.
 
-```
-In 2017 I left Bahia and went to São Paulo with nothing but courage.
-I learned a lot, made great friends and worked hard.
-I graduated in Mathematics (2021), and attended events at the largest mathematics institute in the world (IMPA).
-I received the Blockchain Professional Certification from the University of California - Berkeley (2021).
-I worked as a Blockchain Developer at Lunes Platform for 2.5 years reaching the position of Blockchain Leader. 
-In 2022 I dedicated myself to complete the introduction to DeFi at the University of Nicosia.
-```
+𝗠𝘆 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵 𝗶𝘀 𝗮𝗻𝗰𝗵𝗼𝗿𝗲𝗱 𝗶𝗻:
+• Security-driven development.
+• Teamwork and collaboration.
 
-## ✅ My Experiences
+𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+• Senior Blockchain Engineer at Extracto DAO, a decentralized commodities futures market protocol.
+• Software Engineer at Azion Platform, a LATAM edge computing leader with 180+ edge locations worldwide.
+• Tech Lead Blockchain at Lunes Platform, a Token-Drive blockchain protocol.
 
-```
-- GitLab activity management using Issue, auto-MR, Code Review and Milestones.
-- Development environment standardization with Docker/Compose.
-- Code versioning using Trunk Based Development.
-- Open source documentation with Docusaurus.
-- Automation using CI/CD also in Gitlab.
-- Testing using TDD with Jest/Typescript and Pytest/Python.
-- Library Deployment for PyPi/Python, NPM/JavaScript and Crates/Rust/Assembly.
-- Application Deployment using Docker-Compose/Swarm and Kubernetes.
+𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻:
+• Mathematics Degree from the University of West of São Paulo.
 
-In addition:
-- I actively participated in the selection process and On-Board
-- Organized Meetups to share knowledge among the teams.
-```
+𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
+• Team management and organization.
+• Code-driven development with a focus on security.
+• DevOps: Docker, Docker-compose, Kubernetes.
+• Languages: Rust, Python, TypeScript, Solidity.
 
-## 🪴 Lifestyle
+𝗢𝗻 𝗮 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗻𝗼𝘁𝗲:
+• I am a proud husband
+• Homeschooling father of 2 beautiful daughter
+• In my free time, I enjoy playing guitar, blues, and country-rock like Bob Dylan (yes, with a harmonica).
+• I'm also passionate about building my own library.
 
-```
-🎸 I love playing guitar, blues and country-rock like a Bob Dylan (yes with harmonica).
-👨‍👩‍👧 Married, I have a beautiful daughter.
-📚 I'm building my own library.
-```
+𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:
+• Linkedin: https://linkedin.com/in/olivmath
+• Github: https://github.com/olivmath
+• Email: olivmath@protonmail.com
+• Portfolio: https://olivmath.notion.site/olivmath/Hello-world-I-m-Lucas-Oliveira-9e03c9a566f84bb3ad4f76ae87b2eb97
