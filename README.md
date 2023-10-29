@@ -9,8 +9,8 @@ Senior Blockchain Engineer with +3 years of experience in the entire Blockchain 
 
 ## 👨‍🏭 𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 
-- Blockchain Engineer at [Clearsale](https://br.clear.sale), a the largest listed on the stock exchange anti-fraud company in Brazil (CLSA3).
-- Senior Blockchain Engineer at [Extracto DAO](https://extractodao.com), a decentralized commodities futures market protocol.
+- Blockchain Engineer - Specialist at [Clearsale](https://br.clear.sale), a the largest listed on the stock exchange anti-fraud company in Brazil (CLSA3).
+- Blockchain Engineer - Specialist at [Extracto DAO](https://extractodao.com), a decentralized commodities futures market protocol.
 - Software Engineer at [Azion Platform](https://www.azion.com/pt-br/), a LATAM edge computing leader with 180+ edge locations worldwide.
 - Tech Lead Blockchain at [Lunes Platform](https://lunes.io), a Token-Drive blockchain protocol.
 
