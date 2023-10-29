@@ -26,7 +26,7 @@ Blockchain Engineer with 3+ years of experience in the entire Blockchain project
 - Managed a 3-members of engineering team
 - +10 Talks and Meetups
 - Bitcoin, Ethereum, Polygon, EVM
-- Security: SDL, Code Review, Security Research
+- Security: SDLC, Code Review, Security Research
 - DevOps: Docker, Docker-compose, Kubernetes Observability: Prometheus, Grafana, K6
 - Web: HTTPS, REST, GraphQL, Socket
 - Platform: Linux, Git, Github Actions, Gitlab CI/CD
