@@ -1,6 +1,6 @@
 # 🌎 Hello World !
 
-Senior Blockchain Engineer with +3 years of experience in the entire Blockchain product development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 12 people and led teams of up to 3 people.
+Senior Blockchain Engineer with +4 years of experience in the entire Blockchain product development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 12 people and led teams of up to 3 people.
 
 ## ✅ 𝗠𝘆 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵 𝗶𝘀 𝗮𝗻𝗰𝗵𝗼𝗿𝗲𝗱 𝗶𝗻:
 
