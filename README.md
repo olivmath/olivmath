@@ -1,6 +1,10 @@
 # 🌎 Hello World !
 
+## 🎥 Watch me build live: [Merkly Show Case](https://github.com/users/olivmath/projects/9/) 
+
+
 ![](https://hit.yhype.me/github/profile?user_id=50037567)
+
 
 Senior Blockchain Engineer with +4 years of experience in the entire Blockchain product development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 12 people and led teams of up to 3 people.
 
