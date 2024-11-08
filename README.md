@@ -1,7 +1,5 @@
 # 🌎 Hello World !
 
-## 🎥 Watch me build live: [Merkly Show Case](https://github.com/users/olivmath/projects/9/) 
-
 
 ![](https://hit.yhype.me/github/profile?user_id=50037567)
 
