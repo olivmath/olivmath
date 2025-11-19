@@ -2,108 +2,62 @@
 
 linkedin: https://linkedin.com/in/olivmath<br>
 github: https://github.com/olivmath<br>
-email: olivmath@pm.me<br>
-tel.: (18) 9 8144-4497
+email: olivmath@protonmail.com<br>
+tel.: +55 48 99901-3089
 
 ## Professional Profile
 
-I have been working with software development since 2020.
-My focus is Blockchain mainly on Cryptography, Integrations via SDK and Consensus protocols.
+Senior Blockchain Engineer with +5 years of experience in the entire Blockchain product development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 12 people and led teams of up to 3 people.
 
-## Experience
+## Carrer Highlights
 
-### Lunes Platform
+- **Principal Blockchain Engineer – [DREX (Brazil CBDC Pilot)](https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex)**  
+  Led and delivered two major phases of the Central Bank’s digital currency pilot:  
+  - **Phase 1:** Delivered the full compliance and testing suite to the Central Bank using Parfin infrastructure.  
+  - **Phase 2:** Served as architect and tech lead, delivering a USD-backed stablecoin on Rails-based infrastructure.
 
-**Tech Lead Blockchain**<br>
-**2020.fev - `Current`**
+- **Head of Education – [NearX Educational Platform](https://nearx.com.br)**  
+  Led curriculum development for all courses, mentorship programs, and Brazil’s first postgraduate Web3 specialization.  
+  Organized and delivered **10+ bootcamps and hackathons** across LATAM, advancing education in Blockchain, AI Agents, Quantum Computing, and IoT.
 
-_Lunes is a Token-Drive blockchain protocol_.
+- **Blockchain Engineer – Specialist at [Clearsale](https://br.clear.sale)**  
+  Contributed as a senior specialist to the development of a decentralized digital identity (IDD) solution for the Brazilian retail market at the country’s largest anti-fraud company (CLSA3).
 
-I helped in process automation decreasing software delivery time and increasing final quality.
-I participated in the Architecture, development and deployment of some HTTP REST API for internal services.
-Brought the culture of **Code Review**, **TDD**, **DevOps** and **Continuous Delivery**.
-Improved activity management using issues, code review, auto-MR and Milestone through Gitlab.
-I led the deployment of CI/CD pipelines also in Gitlab.
+- **Blockchain Engineer – Specialist at [Extracto DAO](https://extractodao.com)**  
+  Architect and lead for a 3-engineer team, delivering:  
+  - EVM smart contracts  
+  - Backend systems  
+  - On-chain indexers  
+  For a decentralized protocol enabling futures markets for commodities.
 
-In addition:
-I actively participated in the selection process and _On-Board_.
-I organized _Meetups_ to share knowledge between teams.
+- **Software Engineer – [Azion Edge Computing Platform](https://www.azion.com/pt-br/)**  
+  Contributed to developer tooling at LATAM's largest edge computing network (180+ global PoPs).  
+  Delivered the Deno Subcrypto API wrapper enabling execution of JavaScript and WebAssembly at the edge runtime.
 
-Technologies I used:
+- **Tech Lead Blockchain – [Lunes Platform](https://lunes.io)**  
+  Led blockchain engineering on a token-centric L1 protocol.  
+  Delivered SDKs in **Rust, JavaScript/TypeScript, and Python**, and implemented a core feature that reduced blockchain sync time from **2 hours to 10 minutes**.  
+  Built and supported a developer community while helping validators deploy and monitor full nodes.
 
-- Scala: ScalaTest, Akka, Actor Models and LevelDB
-- Python: Pytest, Pydantic, FastAPI, Peewee and SQLite3
-- Rust: WebAssembly, Wasm-Pack, Clap and Tokio
-- Typescript: Jest, axios and WebAssembly
-- GitLab: Pipeline, CI/CD, Issues and Milestone
-- GitHub: Actions, Issues and Projects
-- Docker: Dockefile and Compose
-- Kubernetes: Deployments and Secretes
-- Figma: Jam
+## Education
 
-### Ghost Finance
+- Mathematics Degree from the University of West of São Paulo.
+- Blockchain Professional Certification from Berkeley.
+- Ethereum Engineer Botcamp from Alchemy University.
 
-**Software Engineer**<br>
-**2022.abril - `Atual`**
-_Ghost Finance is an Ethereum-based DeFi and NFT project_
+## Skill & Epertise
 
-I helped write **Documentation**, **Unit Tests**, **Docker Images**.
-I contribute to best practices like **Clean Code**.
-
-Technologies I used:
-
-- Web3: Solidity, HardHat and Jest
-- Docker: Dockefile
-
-### My Robot School
-
-**Robotics Teacher**<br>
-**2020.fev - 2021.jun**
-
-Helped solve learning/behavior problems among students, developing a gamification system based on **Machine Learning** for creating metrics and tracking.
-
-On a daily basis, I taught robotics/computing classes using **Arduino/ThinkerCAD** as a prototyping platform and **Scratch/C++** for teaching logic and programming.
-
-### Champagnat Hight School
-
-**Intern of Math**<br>
-**2019.jun - 2019.dez**
-
-I created a course on algorithms and programming logic for 6th and 7th graders based on the book “Think in Python” - **Allen B. Downey**.
-In addition, I taught Mathematics and Physics classes to elementary and high school students.<br>
-
-### School Franco Montoro - EMEIF
-
-**Intern of Math**<br>
-**2018.jun - 2018.dez**
-
-Taught Mathematics to 3rd and 4th grade students.
-
-## Academic
-
-### Universidade da California - Berkeley
-
-**Profissional Certificate Program in Blockchain**<br>
-**2021**<br>
-**Nota:** 10.0
-
-In this specialization program I learned about the mechanics, vulnerabilities and differences between **Blockchain** protocols. In the last part of the program I delved into the fundamental and alternative consensus mechanisms and scalability and regulatory barriers of blockchain technology.
-
-### Institute of Pure and Applied Mathematics - IMPA
-
-**Workshop Mathematics and Industry**<br>
-**2020**<br>
-**Nota**: 8.0
-
-I participated in the McKinsey&Company problem solving workshop where we developed a **Machine Learning** model based on logistic regression for preventive prediction of problems related to steel sheet production.
-
-### University of Oeste Paulista - UNOESTE
-
-**Mathematics - Degree**<br>
-**2017-2020**<br>
-**Nota:** 7.15
-
-**Production**: Study on the impacts of homeschooling on children's socialization.
-
-**Activities**: During graduation I participated in the freshman monitoring program.
-It helped college math, engineering and administration students and community high school students, as math tutoring was open to the public.
+- Managed a 3-members of engineering team
+- +3 Cryptography libs publish on Rust, Python and Javascript
+- F/OSS contribuitor
+- +10 Talks, Meetups and Organized Hackathons
+- Bitcoin, Ethereum, Polygon, EVM, Stellar, Webassembly
+- Security: SDLC, Code Review, Security Research
+- DevOps: Docker, Docker-compose, Kubernetes Observability: Prometheus, Grafana, K6
+- Web: HTTPS, REST, GraphQL, Socket
+- Platform: Linux, Git, Github Actions, Gitlab CI/CD
+- Languages
+  - Rust: Tokio, Log4rs, Hyper, WebAssembly, Wasm-pack
+  - Python: Behave, Pytest, FastAPI, Strawberry
+  - TypeScript: Jest, Axios, Express, React, Next
+  - Solidity: Foundry, Hardhat, Slither, Ethersjs, Web3, Viem, Alchemy, Infura
