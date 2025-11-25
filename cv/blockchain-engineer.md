@@ -4,7 +4,6 @@ LinkedIn: https://linkedin.com/in/olivmath
 GitHub: https://github.com/olivmath  
 Email: olivmath@protonmail.com  
 Phone: +55 48 99901-3089  
-Location: Brazil (Remote-friendly)
 
 ---
 
@@ -24,7 +23,7 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 - Worked across protocol design, smart contracts, testing automation, and delivery to regulators.
 
 ### Head of Education – NearX Educational Platform
-**Dates: 2022 – 2024**
+**Dates: 2022 – 2025**
 - Designed and delivered the first accredited Web3 postgraduate program in Brazil.
 - Built course curriculum for Blockchain, AI Agents, IoT, and Quantum Computing.
 - Organized and delivered 10+ hackathons and bootcamps across LATAM.
@@ -32,7 +31,7 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 
 ### Blockchain Engineer – Clearsale (Anti-fraud and Identity)
 **Dates: 2021 – 2022**
-- Designed decentralized digital identity components for large retail authentication.
+- Designed Decentralized Digital Identity (IDD) components for large retail authentication.
 - Worked in security-focused enterprise environment with high standards of reliability and auditability.
 - Contributed to backend, blockchain integration, and identity model design.
 
@@ -46,7 +45,7 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 ### Software Engineer – Azion Edge Computing Platform
 **Dates: 2019 – 2020**
 - Worked on tooling and DX improvements for LATAM’s largest edge compute network (180+ PoPs).
-- Implemented Subcrypto wrapper enabling secure JS and WebAssembly execution in Deno at the edge runtime.
+- Implemented Subcrypto wrapper enabling secure/cryptography API to JS and WebAssembly execution in Deno at the edge runtime.
 
 ### Tech Lead Blockchain – Lunes Blockchain Platform
 **Dates: 2017 – 2019**
@@ -86,7 +85,7 @@ Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, K6
 HTTPS, REST, GraphQL, WebSockets
 
 ### Platforms and Tools
-Linux, Git, CI/CD pipelines, Decentralized Infrastructure
+Linux, Git, GnuPG, CI/CD pipelines
 
 ---
 
@@ -94,8 +93,7 @@ Linux, Git, CI/CD pipelines, Decentralized Infrastructure
 
 - Creator of "Merkly", the most widely used Merkle Tree library in the Python ecosystem.
 - Winner of 4 global Web3 hackathons (Stellar, Rails, XRPL, Chiliz).
-- Organized Web3 educational event with 100+ attendees in Florianópolis.
-- 5000+ followers on LinkedIn focused on blockchain and engineering research.
+- Organized Web3 educational event with 100+ attendees.
+- 5000+ followers on LinkedIn focused on onboarding web2 dev to web3.
 - Ambassador for Stellar (Rust/Soroban smart contract development).
 - Ambassador for OpenSense, large Web3 audit and security education community.
-
