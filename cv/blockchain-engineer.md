@@ -23,32 +23,32 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 - Worked across protocol design, smart contracts, testing automation, and delivery to regulators.
 
 ### Head of Education – NearX Educational Platform
-**Dates: 2022 – 2025**
+**Dates: 2023 – 2025**
 - Designed and delivered the first accredited Web3 postgraduate program in Brazil.
 - Built course curriculum for Blockchain, AI Agents, IoT, and Quantum Computing.
 - Organized and delivered 10+ hackathons and bootcamps across LATAM.
 - Mentored developers and managed academic content roadmap.
 
 ### Blockchain Engineer – Clearsale (Anti-fraud and Identity)
-**Dates: 2021 – 2022**
+**Dates: 2023 – 2024**
 - Designed Decentralized Digital Identity (IDD) components for large retail authentication.
 - Worked in security-focused enterprise environment with high standards of reliability and auditability.
 - Contributed to backend, blockchain integration, and identity model design.
 
 ### Blockchain Engineer – Extracto DAO
-**Dates: 2020 – 2021**
+**Dates: 2022 – 2023**
 - Technical lead for a 3-engineer squad.
 - Delivered EVM smart contracts for decentralized futures trading.
 - Built backend services, data indexers, and on-chain infrastructure.
 - Designed systems focused on commodity trading automation.
 
 ### Software Engineer – Azion Edge Computing Platform
-**Dates: 2019 – 2020**
+**Dates: 2022 – 2023**
 - Worked on tooling and DX improvements for LATAM’s largest edge compute network (180+ PoPs).
 - Implemented Subcrypto wrapper enabling secure/cryptography API to JS and WebAssembly execution in Deno at the edge runtime.
 
 ### Tech Lead Blockchain – Lunes Blockchain Platform
-**Dates: 2017 – 2019**
+**Dates: 2020 – 2023**
 - Led blockchain development on an L1 token-centric protocol.
 - Built SDKs in Rust, Python, and TypeScript.
 - Improved sync performance reducing full-node sync from 2 hours to 10 minutes.
