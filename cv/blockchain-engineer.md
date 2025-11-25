@@ -58,7 +58,7 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 
 ## Education
 
-- Mathematics Degree – University of West of São Paulo
+- **Mathematics Degree – University of West of São Paulo 2017-2020**
 - Blockchain Professional Certification – UC Berkeley
 - Ethereum Engineer Bootcamp – Alchemy University
 
@@ -66,26 +66,12 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 
 ## Technical Skills
 
-**Blockchain & Protocols**
-- Bitcoin, Ethereum, Polygon, EVM, Stellar, Soroban, WebAssembly, L1 and L2 design
-
-**Smart Contract & Security**
-- Solidity, Rust, Code Review, SDLC, Threat Modeling, Smart Contract Security, Audit Processes
-
-**Programming Languages**
-- Rust: Tokio, Hyper, Log4rs, Wasm-Pack
-- Python: FastAPI, Strawberry, Pytest, Behave
-- TypeScript: React, Next.js, Express, Axios, Jest
-- Solidity: Foundry, Hardhat, Slither, Ethers, Web3.js, Viem
-
-**DevOps & Infrastructure**
-- Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, K6
-
-**Backend & Web**
-- HTTPS, REST, GraphQL, WebSockets
-
-**Platforms and Tools**
-- Linux, Git, GnuPG, CI/CD pipelines
+- **Blockchain & Protocols:** Bitcoin, Ethereum, Polygon, EVM, Stellar, Soroban, WebAssembly, L1 and L2 design
+- **DevOps & Infrastructure:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, K6
+- **Backend & Web:** HTTPS, REST, GraphQL, WebSockets
+- **Platforms and Tools:** Linux, Git, GnuPG, CI/CD pipelines
+- **Smart Contract & Security:** Solidity, Rust, Code Review, SDLC, Threat Modeling, Smart Contract Security, Audit Processes
+- **Programming Languages:** Rust, Solidity, Noir, Python, Typescript
 
 ---
 
