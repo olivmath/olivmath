@@ -66,26 +66,26 @@ Senior Blockchain Engineer with 5+ years of experience in blockchain architectur
 
 ## Technical Skills
 
-### Blockchain & Protocols
-Bitcoin, Ethereum, Polygon, EVM, Stellar, Soroban, WebAssembly, L1 and L2 design
+**Blockchain & Protocols**
+- Bitcoin, Ethereum, Polygon, EVM, Stellar, Soroban, WebAssembly, L1 and L2 design
 
-### Smart Contract & Security
-Solidity, Rust, Code Review, SDLC, Threat Modeling, Smart Contract Security, Audit Processes
+**Smart Contract & Security**
+- Solidity, Rust, Code Review, SDLC, Threat Modeling, Smart Contract Security, Audit Processes
 
-### Programming Languages
+**Programming Languages**
 - Rust: Tokio, Hyper, Log4rs, Wasm-Pack
 - Python: FastAPI, Strawberry, Pytest, Behave
 - TypeScript: React, Next.js, Express, Axios, Jest
 - Solidity: Foundry, Hardhat, Slither, Ethers, Web3.js, Viem
 
-### DevOps & Infrastructure
-Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, K6
+**DevOps & Infrastructure**
+- Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, K6
 
-### Backend & Web
-HTTPS, REST, GraphQL, WebSockets
+**Backend & Web**
+- HTTPS, REST, GraphQL, WebSockets
 
-### Platforms and Tools
-Linux, Git, GnuPG, CI/CD pipelines
+**Platforms and Tools**
+- Linux, Git, GnuPG, CI/CD pipelines
 
 ---
 
