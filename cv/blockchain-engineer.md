@@ -1,63 +1,101 @@
 # Lucas Oliveira
 
-linkedin: https://linkedin.com/in/olivmath<br>
-github: https://github.com/olivmath<br>
-email: olivmath@protonmail.com<br>
-tel.: +55 48 99901-3089
+LinkedIn: https://linkedin.com/in/olivmath  
+GitHub: https://github.com/olivmath  
+Email: olivmath@protonmail.com  
+Phone: +55 48 99901-3089  
+Location: Brazil (Remote-friendly)
 
-## Professional Profile
+---
 
-Senior Blockchain Engineer with +5 years of experience in the entire Blockchain product development workflow, from design, architecture, integration with other services, testing and security auditing, to deployment on the Mainnet. Worked in teams of 4 to 12 people and led teams of up to 3 people.
+## Professional Summary
 
-## Carrer Highlights
+Senior Blockchain Engineer with 5+ years of experience in blockchain architecture, smart contract engineering, Web3 infrastructure, security, DevOps, and mainnet deployments. Proven track record leading engineering teams, delivering critical blockchain products for finance, identity, and decentralized markets. Experience with EVM, Stellar, Bitcoin, and L1/L2 ecosystems.
 
-- **Principal Blockchain Engineer – [DREX (Brazil CBDC Pilot)](https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex)**  
-  Led and delivered two major phases of the Central Bank’s digital currency pilot:  
-  - **Phase 1:** Delivered the full compliance and testing suite to the Central Bank using Parfin infrastructure.  
-  - **Phase 2:** Served as architect and tech lead, delivering a USD-backed stablecoin on Rails-based infrastructure.
+---
 
-- **Head of Education – [NearX Educational Platform](https://nearx.com.br)**  
-  Led curriculum development for all courses, mentorship programs, and Brazil’s first postgraduate Web3 specialization.  
-  Organized and delivered **10+ bootcamps and hackathons** across LATAM, advancing education in Blockchain, AI Agents, Quantum Computing, and IoT.
+## Work Experience
 
-- **Blockchain Engineer – Specialist at [Clearsale](https://br.clear.sale)**  
-  Contributed as a senior specialist to the development of a decentralized digital identity (IDD) solution for the Brazilian retail market at the country’s largest anti-fraud company (CLSA3).
+### Principal Blockchain Engineer – DREX (Brazil Central Bank CBDC Pilot)
+**Dates: 2023 – 2025**
+- Delivered core components for the national digital currency pilot.
+- Led compliance and testing suite delivered to the Central Bank.
+- Served as system architect and tech lead on a USD-backed stablecoin using Rails-based blockchain infrastructure.
+- Worked across protocol design, smart contracts, testing automation, and delivery to regulators.
 
-- **Blockchain Engineer – Specialist at [Extracto DAO](https://extractodao.com)**  
-  Architect and lead for a 3-engineer team, delivering:  
-  - EVM smart contracts  
-  - Backend systems  
-  - On-chain indexers  
-  For a decentralized protocol enabling futures markets for commodities.
+### Head of Education – NearX Educational Platform
+**Dates: 2022 – 2024**
+- Designed and delivered the first accredited Web3 postgraduate program in Brazil.
+- Built course curriculum for Blockchain, AI Agents, IoT, and Quantum Computing.
+- Organized and delivered 10+ hackathons and bootcamps across LATAM.
+- Mentored developers and managed academic content roadmap.
 
-- **Software Engineer – [Azion Edge Computing Platform](https://www.azion.com/pt-br/)**  
-  Contributed to developer tooling at LATAM's largest edge computing network (180+ global PoPs).  
-  Delivered the Deno Subcrypto API wrapper enabling execution of JavaScript and WebAssembly at the edge runtime.
+### Blockchain Engineer – Clearsale (Anti-fraud and Identity)
+**Dates: 2021 – 2022**
+- Designed decentralized digital identity components for large retail authentication.
+- Worked in security-focused enterprise environment with high standards of reliability and auditability.
+- Contributed to backend, blockchain integration, and identity model design.
 
-- **Tech Lead Blockchain – [Lunes Platform](https://lunes.io)**  
-  Led blockchain engineering on a token-centric L1 protocol.  
-  Delivered SDKs in **Rust, JavaScript/TypeScript, and Python**, and implemented a core feature that reduced blockchain sync time from **2 hours to 10 minutes**.  
-  Built and supported a developer community while helping validators deploy and monitor full nodes.
+### Blockchain Engineer – Extracto DAO
+**Dates: 2020 – 2021**
+- Technical lead for a 3-engineer squad.
+- Delivered EVM smart contracts for decentralized futures trading.
+- Built backend services, data indexers, and on-chain infrastructure.
+- Designed systems focused on commodity trading automation.
+
+### Software Engineer – Azion Edge Computing Platform
+**Dates: 2019 – 2020**
+- Worked on tooling and DX improvements for LATAM’s largest edge compute network (180+ PoPs).
+- Implemented Subcrypto wrapper enabling secure JS and WebAssembly execution in Deno at the edge runtime.
+
+### Tech Lead Blockchain – Lunes Blockchain Platform
+**Dates: 2017 – 2019**
+- Led blockchain development on an L1 token-centric protocol.
+- Built SDKs in Rust, Python, and TypeScript.
+- Improved sync performance reducing full-node sync from 2 hours to 10 minutes.
+- Supported validators and developer ecosystem.
+
+---
 
 ## Education
 
-- Mathematics Degree from the University of West of São Paulo.
-- Blockchain Professional Certification from Berkeley.
-- Ethereum Engineer Botcamp from Alchemy University.
+- Mathematics Degree – University of West of São Paulo
+- Blockchain Professional Certification – UC Berkeley
+- Ethereum Engineer Bootcamp – Alchemy University
 
-## Skill & Epertise
+---
 
-- Managed a 3-members of engineering team
-- +3 Cryptography libs publish on Rust, Python and Javascript
-- F/OSS contribuitor
-- +10 Talks, Meetups and Organized Hackathons
-- Bitcoin, Ethereum, Polygon, EVM, Stellar, Webassembly
-- Security: SDLC, Code Review, Security Research
-- DevOps: Docker, Docker-compose, Kubernetes Observability: Prometheus, Grafana, K6
-- Web: HTTPS, REST, GraphQL, Socket
-- Platform: Linux, Git, Github Actions, Gitlab CI/CD
-- Languages
-  - Rust: Tokio, Log4rs, Hyper, WebAssembly, Wasm-pack
-  - Python: Behave, Pytest, FastAPI, Strawberry
-  - TypeScript: Jest, Axios, Express, React, Next
-  - Solidity: Foundry, Hardhat, Slither, Ethersjs, Web3, Viem, Alchemy, Infura
+## Technical Skills
+
+### Blockchain & Protocols
+Bitcoin, Ethereum, Polygon, EVM, Stellar, Soroban, WebAssembly, L1 and L2 design
+
+### Smart Contract & Security
+Solidity, Rust, Code Review, SDLC, Threat Modeling, Smart Contract Security, Audit Processes
+
+### Programming Languages
+- Rust: Tokio, Hyper, Log4rs, Wasm-Pack
+- Python: FastAPI, Strawberry, Pytest, Behave
+- TypeScript: React, Next.js, Express, Axios, Jest
+- Solidity: Foundry, Hardhat, Slither, Ethers, Web3.js, Viem
+
+### DevOps & Infrastructure
+Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Prometheus, Grafana, K6
+
+### Backend & Web
+HTTPS, REST, GraphQL, WebSockets
+
+### Platforms and Tools
+Linux, Git, CI/CD pipelines, Decentralized Infrastructure
+
+---
+
+## Notable Achievements
+
+- Creator of "Merkly", the most widely used Merkle Tree library in the Python ecosystem.
+- Winner of 4 global Web3 hackathons (Stellar, Rails, XRPL, Chiliz).
+- Organized Web3 educational event with 100+ attendees in Florianópolis.
+- 5000+ followers on LinkedIn focused on blockchain and engineering research.
+- Ambassador for Stellar (Rust/Soroban smart contract development).
+- Ambassador for OpenSense, large Web3 audit and security education community.
+
